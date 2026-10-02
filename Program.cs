@@ -1,4 +1,6 @@
 using Microsoft.EntityFrameworkCore;
+using PersonalOSBackend.Data;
+using PersonalOSBackend.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
