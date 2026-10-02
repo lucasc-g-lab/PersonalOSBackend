@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3QsMAfzRBTz0FBebAlleDv1yH226HYzaS1CeTE+nORM=",
+  "Source": "PersonalOSBackend",
+  "BasePath": "_content/PersonalOSBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
